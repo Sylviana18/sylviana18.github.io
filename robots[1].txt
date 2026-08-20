@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sylviana18.github.io/sitemap.xml
